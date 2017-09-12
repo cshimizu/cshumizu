@@ -1,0 +1,286 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: courier;
+}
+
+.a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+background-color:#4CAF50;
+}
+
+.blogimage {
+max-width: 100%;
+height: auto;
+margin-bottom: 0px;
+}
+
+.blogimage1 {
+max-width: 100%;
+max-height: 100%;
+}
+
+.bloglist {
+ background-color: white;
+ height: 100%;
+ margin-bottom: 5px;
+ padding: 30px 10px;
+ border-top: 5px solid #cccccc;
+ }
+ 
+ .blogtitles {
+ font-family: courier;
+ font-size: 30px;
+ text-align: center;
+ }
+ 
+ .bloglink {
+ color: black;
+ text-decoration:none;
+ }
+ 
+ .bloglink:hover {
+ color: #4CAF50;
+ text-decoration:none;
+ }
+ 
+ .bloglistimg {
+ max-width:100%;
+height: auto;
+ }
+ 
+ .bloglistimgdiv {
+ width: 200px;
+ height: auto;
+ padding-bottom: 15px;
+ margin: 5px;
+ }
+
+ .bloglistdate {
+ font-family: courier;
+ font-size: 15px;
+ text-align: right;
+ }
+ 
+
+
+ .blogpictext {
+ font-family: courier;
+ font-size: 15px;
+ color: darkgrey;
+ }
+
+
+
+ .blogtext {
+ font-family: courier;
+ font-size: 20px;
+ }
+ 
+ .indivblogtitle {
+ background-color: #DCDCDC;
+ margin-top: 0px;
+ padding-top: 5px;
+ }
+ 
+ .footer {
+ background-color:#333;
+ text-align:center;
+ }
+ 
+ .footerlogo {
+ width: 50px;
+ height: 50px;
+ padding: 30px 30px 30px 30px;
+ display: inline-block;
+ margin-left: auto;
+ margin-right: auto;
+ }
+ 
+ .shimizulogo {
+ width:150px;
+ height: auto;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 0px;
+ text-align: left;
+ padding: 30px;
+ }
+ 
+ .title {
+ color: black;
+ font-family: courier;
+ font-size: 75px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 0px;
+ margin-top: 10px;
+}
+ 
+ .titlesub {
+ color:black;
+ font-family: courier;
+ font-size: 25px;
+  margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 10px;
+ margin-top: 0px;
+}
+ 
+ .aboutpage {
+ background-color: #9e9e9e;
+ }
+ 
+ .abouttext {
+ font-family: courier;
+ font-size: 25px;
+ }
+ 
+ .contactpage {
+ background-color: #9e9e9e;
+ margin-top: 0px;
+ }
+ 
+ .contactlink {
+ font-family: courier;
+ font-size: 30px;
+ text-decoration: none;
+ }
+ 
+ .contacttext {
+ font-family: courier;
+ font-size: 35px;
+ display: inline-block;
+ }
+ 
+ .gallerypage {
+ background-color: #9e9e9e;
+ }
+ 
+ 
+ .gallerytext {
+ color: black;
+ font-family: courier;
+ font-size: 30px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 0px;
+ margin-bottom: 0px;
+ text-align: left;
+ padding: 10px;
+ }
+ 
+ .gallerydiv {
+ margin-top: 0px;
+ margin-left: 20px;
+ margin-right: 20px;
+ margin-bottom: 20px;
+ border: 1px solid #ccc;
+ float: center;
+ width: 250px;
+ display: inline-block;
+ }
+ 
+ .gallerydiv:hover {
+ border: 1px solid #777;
+ }
+ 
+ .galleryimg {
+ width: 100%;
+ height: auto;
+ }
+ 
+ .gallerydesc {
+ padding: 15px;
+ text-align: center;
+ font-family: courier;
+ font-size: 15px;
+ }
+ 
+ .mySlides {
+ display: n;
+ }
+ 
+ .archivelink {
+ color: black;
+ font-family: courier;
+ font-size: 50px;
+ text-align: centre;
+ display: inline-block;
+ text-decoration: none;
+ }
+ 
+ .archivelink:hover {
+    background-color: #4CAF50;
+}
+ 
+.archivetitle {
+color: black;
+font-family: courier;
+font-size: 50px;
+padding: 0;
+text-align: center;
+}
+ 
+.archivetitlediv {
+padding: 0;
+background-color: white;
+border-top: 5px solid #cccccc;
+
+}
+ 
+ 
+  .gallerynewdiv {
+ margin-top: 0px;
+ margin-left: 5px;
+ margin-right: 5px;
+ margin-bottom: 5px;
+ border: 1px solid #ccc;
+ float: center;
+ width: 450px;
+ display: inline-block;
+ }
+ 
+ 
+ .archivebuttondiv {
+border-radius: 25px;
+    background-color: #333;
+	text-align: centre;
+ }
+ 
+ .archivebuttontxt {
+ color: white;
+ font-family: courier;
+ font-size: 50px;
+ text-decoration: none;
+ text-align: center;
+ }
+ 
+
+ .archivebuttontxt:hover {
+color: #4CAF50;
+ }
+
+ 
+ 
+
